@@ -26,7 +26,7 @@ stdenv.mkDerivation (finalAttrs: {
     owner = "Vysp3r";
     repo = "protonplus";
     tag = "v${finalAttrs.version}";
-    hash = "sha256-xwnI/b9fESOCVoENynUpujoARwIMt1e7u+d1i/jAam8=";
+    hash = "sha256-13PU/HXlk40DTmZjS4dduUT/7uVfTxMYpgDLZRr0O0w=";
   };
 
   nativeBuildInputs = [
